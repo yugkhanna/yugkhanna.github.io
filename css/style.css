@@ -77,16 +77,18 @@ a {
 }
 
 .fa:active {
-  color: #000000;
+  color: #00a713;
+  text-decoration: none;
 }
 
 .fa:focus {
-  color: #000000;
+  color: #00a713;
+  text-decoration: none;
 }
 
 
 .fa:hover {
-  color: #000000;
+  color: #00a713;
   text-decoration: none;
 }
 
